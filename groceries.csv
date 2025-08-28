@@ -1,0 +1,18 @@
+Name,PurchaseDate,ExpiryDate,Quantity,Status
+Milk,2025-08-20,2025-08-25,2,Expired
+Bread,2025-08-22,2025-08-24,1,Expired
+Eggs,2025-08-10,2025-08-15,12,Expired
+Apples,2025-08-18,2025-08-28,6,Near Expiry
+Bananas,2025-08-23,2025-08-26,8,Expired
+Chicken,2025-08-19,2025-08-23,3,Expired
+Rice,2025-08-01,2026-02-01,5,Fresh
+Lentils,2025-08-05,2026-01-10,4,Fresh
+Tomatoes,2025-08-21,2025-08-27,10,Expired
+Potatoes,2025-08-02,2025-09-10,7,Fresh
+Cheese,2025-07-28,2025-08-15,2,Expired
+Butter,2025-08-17,2025-08-29,1,Near Expiry
+Juice,2025-08-12,2025-08-20,3,Expired
+Fish,2025-08-22,2025-08-27,2,Deleted
+Onions,2025-08-15,2025-09-05,6,Fresh
+water,2025-27-8,2026-08-27,100,Fresh
+Peanut Butter,2025-08-27,2026-08-27,15,Fresh
